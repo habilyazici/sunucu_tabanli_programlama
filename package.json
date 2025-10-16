@@ -1,0 +1,28 @@
+{
+  "name": "new_app",
+  "version": "1.0.0",
+  "description": "sunucu tabanlı programlama dersi için oluşturulan bir projedir ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habilyazici/sunucu_tabanli_programlama.git"
+  },
+  "keywords": [
+    "sunucu",
+    "ders",
+    "nodjs"
+  ],
+  "author": "Habil Yazıcı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habilyazici/sunucu_tabanli_programlama/issues"
+  },
+  "homepage": "https://github.com/habilyazici/sunucu_tabanli_programlama#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
